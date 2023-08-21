@@ -1,3 +1,3 @@
 # flutter_first
+First flutter app, word generator!
 
-A new Flutter project.
